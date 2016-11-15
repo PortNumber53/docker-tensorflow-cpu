@@ -1,0 +1,1 @@
+docker build -t portnumber53/tensorflow-cpu .
