@@ -1,6 +1,10 @@
 # docker-tensorflow-cpu
 My attempt at making something useful with TensorFlow
 
+Docker container:
+
+https://hub.docker.com/r/portnumber53/tensorflow-cpu/
+
 
 If I'm understanding things correctly, give this container a try doing the following:
 
